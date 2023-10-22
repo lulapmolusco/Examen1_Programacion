@@ -1,0 +1,7 @@
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe.config
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.pdb
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.csproj.AssemblyReference.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.csproj.CoreCompileInputs.cache
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.exe
+C:\Users\Reich\Documents\UTC\Cuatrimestre III\Programacion 2\Examen 1\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.pdb
